@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vera. I am research scientist with the major focus on HIV.
+- 👋 Hi, I’m Vera. I am a research scientist with the major focus on HIV.
 - 👀 I’m interested in Bioinformatics and Machine Learning.
 - 🌱 I’m currently working on creating pipelines, using Nextflow. 
 
