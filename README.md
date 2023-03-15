@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vera-rykalina
-- 👀 I’m interested in Bioinformatics and Machine Learning
-- 🌱 I’m currently learning Applied Bioinformatics and Biostatistics
-- 💞️ I’m looking to collaborate on Data Science projects.
+- 👋 Hi, I’m Vera. I am research scientist with the major focus on HIV.
+- 👀 I’m interested in Bioinformatics and Machine Learning.
+- 🌱 I’m currently working on creating pipelines, using Nextflow. 
+
 
 <!---
 vera-rykalina/vera-rykalina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
